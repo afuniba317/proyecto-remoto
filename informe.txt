@@ -1,3 +1,11 @@
 Título: "Análisis de mercado" 
-Fecha: "Mayo 2023" Autores: Ana, Pablo y Luis 
+
+Fecha: "Mayo 2023" 
+
+Autores: Ana, Pablo y Luis 
+
 Objetivo: Analizar el comportamiento del mercado de smartphones en el primer trimestre del año. 
+
+Contenido: 
+●	Análisis del mercado de smartphones en el primer trimestre del año.
+●	Conclusiones y recomendaciones.
